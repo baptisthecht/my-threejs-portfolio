@@ -2,9 +2,6 @@
   "name": "boko-tutorial",
   "private": true,
   "version": "0.0.0",
-  "compilerOptions": {
-    "esModuleInterop": true,
-  },
   "scripts": {
     "dev": "vite --host",
     "build": "vite build",
