@@ -7,7 +7,7 @@
     "dev": "vite --host",
     "build": "vite build",
     "preview": "vite preview",
-    "start": "node ./main.js"
+    "start": "node ./main.js ts-node"
   },
   "devDependencies": {
     "@ashthornton/asscroll": "^2.0.7",
