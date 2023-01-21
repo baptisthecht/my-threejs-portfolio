@@ -8,7 +8,7 @@
     "dev": "vite --host",
     "build": "vite build",
     "preview": "vite preview",
-    "start": "node --loader ts-node/esm ./main.js"
+    "start": "node --loader ./main.js"
   },
   "devDependencies": {
     "@ashthornton/asscroll": "^2.0.7",
